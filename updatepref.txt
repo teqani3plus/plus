@@ -1,0 +1,38 @@
+التحديث الاصلاحي لنسخ AlwhatApp
+V 7.70
+
+ااصلاحات التي جرت ؟
+
+ 1🟢 تم اصلاح عدم التثيت في اصدارات اجهزة 5 لولي بوب واصدار 6 مارشميلو  
+
+2🟢 تم اصلاح مشكلة عدم ارسال فيديو الى الحالة اكثر من 30ثانية 
+
+3🟢 تم اصلاح الانهيار المفاجأ عند الدخول الى
+
+ الواتساب او الدخول الى الدردشة او الدخول الى اضافات علاء اسماعيل ..
+
+4✅ تم اضاقة خيار ارسال رسالة تحويل  الى اكثر من 250 اسم  دفعة واحدة 
+
+اصلاحات شبة كاملة 
+
+شكرا لكم لاستخدامكم واتساب علاء اسماعيل
+
+
+Corrective update for AlwhatApp versions
+ V 7.70
+
+ What reforms have taken place?
+
+  1🟢 The lack of installation has been fixed in the versions of 5 Lollipop and 6 Marshmallow devices
+
+ 2🟢 Fixed an issue where a video could not be sent to the status for more than 30 seconds
+
+ 3🟢 The sudden crash when entering the . has been fixed
+
+  WhatsApp, enter the chat, or enter the additions of Alaa Ismail..
+
+ 4 ✅ The option to send a transfer message to more than 250 names at once has been added
+
+ Almost complete repairs
+
+ Thank you for using WhatsApp Alaa Ismailقم بتحديث لكي  تعمل  معك النسخ بشكل افضل
